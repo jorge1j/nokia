@@ -1,0 +1,8 @@
+#file containing names
+maxwell
+nosa
+queen
+john
+caleb
+moses
+jude
